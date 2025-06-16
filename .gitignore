@@ -1,0 +1,7 @@
+# Go模块文件
+*.mod
+*.sum
+
+# 临时文件
+tmp/
+runner-build.exe
